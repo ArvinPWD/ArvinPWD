@@ -16,9 +16,7 @@
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-
 ![ArvinHPWD GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvinPWD&layout=compact&show_icons=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArvinPWD&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinPWD&layout=compact&show_icons=true&hide_border=true)](https://github.com/ArvinPWD)
 
 <p align="center">
@@ -26,7 +24,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArvinPWD&theme=radical" alt="ArvinPWD GitHub Contribution"/>
   </a>
 </p>
-
 
 ![Arvin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArvinPWD&custom_title=Arvin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
