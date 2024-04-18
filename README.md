@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinPWD&layout=compact&show_icons=true&hide_border=true)](https://github.com/ArvinPWD)
 
 <p align="center">
-  <a href="https://github.com/ArvinHPWD">
+  <a href="https://github.com/ArvinPWD">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArvinPWD&theme=radical" alt="ArvinPWD GitHub Contribution"/>
   </a>
 </p>
