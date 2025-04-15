@@ -1,32 +1,21 @@
-<a href="https://komarev.com/ghpvc/?username=ArvinPWD">
-  
-  <img align="right" src="https://komarev.com/ghpvc/?username=ArvinPWD&label=Visitors&color=0e75b6&style=flat" alt="visitor" />
-</a>
+<h1 align="center">Hey there &#x1F44B;, It's me <i>Sid.</i></h1>
+A tech enthusiast from a place that's not on most maps. I'm passionate about the science of perception and love exploring new tech ideas.
 
-![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)
+In my free time, I dive into music, try crafting some designs, tinker with apps, or just have a good chat on Telegram. It's all about exploring new ideas and having fun!
 
-<p align="center"><strong>👋 Hi,I'm ArvinPWD and i’m Beginner <strong></p>
+<img src="https://visitcountpro.netlify.app/api?id=ArvinPWD&label=Profile%20Views&icon=6&color=0&pretty=true">
 
-![ArvinHPWD GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArvinPWD&layout=compact&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinPWD&layout=compact&show_icons=true&hide_border=true)](https://github.com/ArvinPWD)
+<a href="mailto:contact@burhanverse.eu.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a> <a href="https://burhanverse.t.me"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"></a> <a href="https://akuamods.t.me">
 
-<p align="center">
-  <a href="https://github.com/ArvinPWD">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArvinPWD&theme=radical" alt="ArvinPWD GitHub Contribution"/>
-  </a>
-</p>
-
-![Arvin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArvinPWD&custom_title=Arvin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg">
+<br/>
+----
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
+  <img src="https://lastfm-cyan.vercel.app/api?user=AquaListens&count=2&width=525&bg_color=1e1e2e">
+  <br/><br/>
+  <img src="https://streak-stats-azure.vercel.app/?user=ArvinPWD&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvinPWD&bg_color=1e1e2e&color=b4befe&line=94e2d5&point=cba6f7&area=true&hide_border=true&radius=16" alt="Vins activity graph" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/ArvinPWD/assets/main/sanke.svg" alt="animation" />
 </div>
