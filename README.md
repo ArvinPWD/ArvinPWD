@@ -10,8 +10,6 @@ In my free time, I dive into music, try crafting some designs, tinker with apps,
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg">
 <br/>
 ----
-<div align="center">
-  <img src="https://lastfm-cyan.vercel.app/api?user=AquaListens&count=2&width=525&bg_color=1e1e2e">
   <br/><br/>
   <img src="https://streak-stats-azure.vercel.app/?user=ArvinPWD&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB" alt="GitHub Streak" />
   <br/><br/>
