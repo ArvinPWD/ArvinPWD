@@ -14,3 +14,5 @@ In my free time, I dive into music, try crafting some designs, tinker with apps,
   <img src="https://streak-stats-azure.vercel.app/?user=Mavins&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mavins&bg_color=1e1e2e&color=b4befe&line=94e2d5&point=cba6f7&area=true&hide_border=true&radius=16" alt="ArvinPWD activity graph" />
+
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ArvinPWD&show_icons=true&theme=radical&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinPWD&theme=radical&layout=compact)
